@@ -11,5 +11,10 @@ Creación del espacio de trabajo en Trello y GitHub y asignación el nombre del 
 Realización de DAFOS y puesta en común de los mismos 
 
 10/05/2022
-Hemos puesto en común los Dafos, hemos creado el Dafo definitivo
-
+En el dia de hoy hemos unido los DAFOS que hicimos cada una de forma independiente en uno solo , despues hemos planteado los BPMN de la pagina
+BPMN REGISTRO/FORMULARIO;Fernando Contreras
+BPMN COMPRA DEL PEDIDO;Jaime
+BPMN ENVIO DEL PEDIDO;Rodrigo
+BPMN PARTIDOS;Fernando Ayoso
+BPMN PUBLICIDAD/CONTACTO;Manuel
+Una vez planteados nos lo hemos dividimos los BPMN y nos hemos puesto a hacerlos, los hemos acabado subido al teams/github y al final nos hemos reunido para preparar la siguiente clase(Mockups) y resolver dudas sobre el trabajo.
