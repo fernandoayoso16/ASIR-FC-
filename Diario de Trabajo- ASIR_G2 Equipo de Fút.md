@@ -38,3 +38,4 @@ Manuel Madrid: Mockups contáctanos y historia
 Rodrigo: Mockups tienda producto específico
 Jaime Moreno: Mockups tienda general
 Jaime Duran: Mockups club
+
