@@ -27,3 +27,7 @@ BPMN PARTIDOS;Fernando Ayoso
 BPMN PUBLICIDAD/CONTACTO;Manuel
 Una vez planteados nos lo hemos dividimos los BPMN y nos hemos puesto a hacerlos, los hemos acabado subido al teams/github y (Reuinion Scrum;Al final nos hemos reunido para preparar la siguiente clase(Mockups) y resolver dudas sobre el trabajo.)
 
+17/05/2022
+En el día de hoy hemos tenido dos reuniones de SCRUM, una al principio de la clase (8:30 aprox) y otra al finalizar la misma (11:00). En la primera hemos puesto en común todos los Mockups que teníamos que haber traido para hoy. Hemos decidido un formato que debe tener nuestra página web. Por otra parte, en la segunda reunión, hemos explicado a dos compañeros (Rodrigo y Manuel) lo que habíamos realizado, ya que tenían examen y no han podido asistir mucho en estas horas. 
+Cabe destacar que hemos tenido un problema con Jaime Durán, el cual está fuera del grupo, ya que no ha realizado las minimas tareas propuestas por todo el grupo. 
+Al finalizar la primera reunión de Scrum, Fernando Contreras, Jaime Moreno y Fernando Garcia se han dedicado a cambiar el formato de todos los Mockups, unirlos en un pdf junto a los BPMN y se lo han enviado al profesor. 
