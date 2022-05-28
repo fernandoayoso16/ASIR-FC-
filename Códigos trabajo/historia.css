@@ -1,0 +1,15 @@
+.Nuestros-comienzos{
+    text-align: justify;
+    clear: both;
+    position: relative;
+    bottom: 50px;
+    width: 450px;   
+    border: 100px;
+    padding: 100px;
+    padding-left: 250px;
+}
+
+body{
+    background-color: blue;
+}
+ 

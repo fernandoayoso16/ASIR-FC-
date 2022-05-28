@@ -1,0 +1,185 @@
+html {
+    height: 100%;
+}
+  
+body {
+    min-height: 100%;
+    margin: 0 auto;
+
+    display: flex;
+    flex-direction: column;
+} 
+
+#cabecera {
+    background-color: black;
+
+    display: flex;
+    flex-direction: row;
+
+    color: white;
+}
+
+#cabecera a, a:hover, a:visited, a:active {
+    color: inherit;
+    text-decoration: none;
+}
+
+#divLogoIzquierda {
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#divCabeceraParteDerecha {
+    width: 80%;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.logo {
+    width: 6rem;
+    height: 6rem;
+}
+
+.redes-sociales-thumbnail {
+    width: 2rem;
+    height: 2rem;
+}
+
+.lista-cabecera {
+    display: flex;
+    flex-direction: row;
+
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.titulo-div-header {
+    width: 25%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: center;
+    font-family: 'Fredericka the Great', cursive;
+}
+
+.resto-div-header {
+    width: 75%;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.seccion-inicio-registrate {
+    width: 40%;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+
+.perfil-thumbnail {
+    width: 2rem;
+    height: 2rem;
+}
+
+
+.seccion-busqueda {
+    width: 40%;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.seccion-lenguajes {
+    width: 20%;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    gap: 1rem;
+}
+
+
+.lenguaje-thumbnail {
+    width: 2rem;
+    height: 2rem;
+}
+
+.d-flex {
+    display: flex;
+}
+
+
+.flex-direction-row {
+    flex-direction: row;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.ul-disable-margin-and-padding {
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
+}
+
+#contenido {
+    background-color: #dae8fc;
+    flex-grow: 1;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+
+    padding-left: 15rem;
+    padding-right: 15rem;
+
+    display: flex;
+    align-items: center;
+}
+
+#pie-pagina {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+
+    padding: 2rem;
+}
+
+#pie-pagina a, a:hover, a:visited, a:active {
+    color: inherit;
+    text-decoration: none;
+}
+
+.mitad-alto {
+    height: 50%;
+}
+
+.mitad-ancho {
+    width: 50%;
+}
+
+.centrar {
+    text-align: center;
+}
+
+.ul-no-estlo {
+    list-style-type: none;
+}
