@@ -1,0 +1,99 @@
+body{
+    background-color: #DAE8FC;
+}
+
+h1{
+    margin-left: 15%;
+}
+
+h2{
+    text-align: center;
+}
+
+hr{
+    width: 90%;
+}
+
+form{
+    margin-left: 5%;
+}
+
+a{
+    margin-left: 50px;
+}
+
+img{
+    height: 90%;
+}
+
+#login{
+    width: 70%;
+    border: solid black 2px;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: white;
+    padding-bottom: 50px;
+}
+
+#registro{
+    width: 70%;
+    border: solid black 2px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: white;
+    float: none;
+    display: inline-block;
+    padding-bottom: 3%;
+}
+
+#otroreg{
+    float: left;
+    width: 40%;
+    padding: 5%;
+    padding-top: 15%;
+    padding-bottom: 25%;
+    margin-top: 5%;
+    border-right: solid black 1px;
+}
+
+#otroreg a{
+    margin: 0;
+}
+
+#Google{
+    height: 70px;
+    margin-right: 0;
+    margin-left: 30%;
+}
+
+#Facebook{
+    height: 70px;
+    margin-left: 0;
+}
+
+#regnormal{
+    width: 40%;
+    float: right;
+}
+
+.inputtext{
+    width: 70%;
+    border-radius: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.inputbut{
+    border-radius: 5px;
+    background-color: rgb(45, 148, 252);
+    color: white;
+    padding: 5px;
+    margin-right: 8%;
+    width: 25%;
+}
+
+#continuar{
+    margin-left: 8%;
+}
