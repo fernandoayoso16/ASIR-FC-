@@ -1,0 +1,74 @@
+body{
+    background-color: #dae8fc;
+}
+
+#content{
+    display: inline-block;
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
+#imgs{
+    padding-top: 70px;
+    width: 30%;
+    margin-left: 10%;
+    float: left;
+    align-items: center;
+}
+
+#iprod{
+    width: 70%;
+    margin-bottom: 70px;
+    margin-left: 15%;
+}
+
+#itall{
+    width: 40%;
+    margin-left: 30%;
+}
+
+#detalles{
+    width: 40%;
+    margin-right: 10%;
+    float: right;
+}
+
+#anadir{
+    width: 60%;
+    float: left;
+}
+
+#comprar{
+    padding-top: 17%;
+    width: 35%;
+    margin-left: 15%;
+}
+
+#comprar form{
+    margin-left: 0;
+    padding-top: 0;
+    width: 100%;
+}
+
+#opcionescompra{
+    width: 100%;
+    margin-bottom: 100px;
+    display:inline-flex;
+    float: right;
+}
+
+.text{
+    margin-bottom: 10px;
+}
+
+#fecha,#cvv{
+    width: 36%;
+}
+
+.subm{
+    border-radius: 5px;
+    background-color: rgb(45, 148, 252);
+    color: white;
+    padding: 5px;
+    width: fit-content;
+}
