@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="../css/producto.css">
+    <link rel="stylesheet" href="../css/paginas.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <div id="cabecera">
+        <div id="divLogoIzquierda">
+            <img class="logo" src="../img/escudo.png" alt="Escudo equipo">
+        </div>
+        <div id="divCabeceraParteDerecha">
+            <div class="d-flex flex-direction-row mitad-alto">
+                <div class="titulo-div-header">
+                    <h1>ASIR FC</h1>
+                </div>
+                <div class="resto-div-header">
+                    <div class="seccion-inicio-registrate">
+                        <img class="perfil-thumbnail" src="../img/descarga (1).png" alt="Perfil">
+                        <button><a href="../html/login.html">Login</a></button>
+                        <button><a href="../html/login.html">Registrate</a></button>
+                    </div>
+                    
+                    <div class="seccion-busqueda">
+                        <input type="text" placeholder="Search...">
+                    </div>
+                    
+                    <div class="seccion-lenguajes">
+                        <img class="lenguaje-thumbnail" src="../img/bandera_espana.png" alt="Español">
+                        <img class="lenguaje-thumbnail" src="../img/ingles.png" alt="English">
+                    </div>
+                </div>
+            </div>
+            <div class="d-flex mitad-alto align-items-center">
+                <ul class="lista-cabecera ul-no-estlo ul-disable-margin-and-padding">
+                    <li><a href="../html/Inicio.html"><b>Inicio</b></a></li>
+                    <li><a href="../html/historia.html"><b>Historia</b></a></li>
+                    <li><a href="../html/Club.html"><b>Club</b></a></li>
+                    <li><a href="../html/Tienda.html"><b>Tienda</b></a></li>
+                    <li><a href="../html/tablas.html"><b>Partidos</b></a></li>
+                    <li><a href="../html/QUINIELA.html"><b>Quiniela</b></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="content">
+    <div id="imgs">
+            <img id="iprod" src="../img/Segnda equipacion.png" alt="Foto del producto">
+            <img id="itall" src="../img/tallas.png" alt="Guía de tallas">
+        </div>
+
+        <div id="detalles">
+            <div id="opcionescompra">
+                <div id="anadir">
+                    <h1>Nombre del producto</h1>
+                    <br>
+                    <h2>20€</h2>
+                    <form method="get" action="">
+                        <label>Cantidad:</label>
+                        <br>
+                        <input id="cantidad" type="number" value="1">
+                        <br><br>
+                        <label>Talla:</label>
+                        <br>
+                        <select id="tallas">
+                            <option value="S">S</option>
+                            <option value="M">M</option>
+                            <option value="L">L</option>
+                            <option value="XL">XL</option>
+                            <option value="XXL">XXL</option>
+                        </select>
+                        <br><br>
+                
+                        <form method="get" action="">
+                         <a href="../html/carrito2.html"><button type="submit">Añadir a la cesta</a>
+                        </form>
+                    
+                       
+                    </form>
+                </div>
+        
+                <div id="comprar">
+                    <h2>Comprar ahora</h2>
+                    <form id="comprar" method="get" action="">
+                        <input type="radio" value="tarjeta">
+                        <label>Tarjeta</label>
+                        <br><br>
+                        <input class="text" type="text" placeholder="Nombre" autocomplete="off">
+                        <input class="text" type="text" placeholder="Número" autocomplete="off">
+                        <input id="fecha" class="text" type="text" placeholder="Fecha" autocomplete="off">
+                        <input id="cvv" class="text" type="text" placeholder="CVV" autocomplete="off">
+                        <br><br>
+                        <input type="radio" value="Paypal">
+                        <label>Paypal</label>
+                        <br><br>
+                        <input class="text" type="text" placeholder="Correo electrónico">
+                        <input class="text" type="password" placeholder="Contraseña">
+                        <br>
+                        <form method="get" action="">
+                            <a href="../html/login.html"><button type="submit">Comprar</a>
+                        </form>
+                    </form>
+                </div>
+            </div>
+            
+            <br>
+
+            <div id="descripcion">
+                <h2>Descripción</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto corrupti rem ullam labore quibusdam corporis dolor. Animi rerum libero aliquid, voluptas tempora nam hic minus esse recusandae, tempore delectus magnam.</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div id="pie-pagina">
+        <div class="mitad-ancho centrar d-flex">
+            <ul class="ul-no-estlo ul-disable-margin-and-padding mitad-ancho">
+                <li><a href="../html/contacto.html">Contáctanos</a></li>
+                <li><a href="#">Donde estamos</a></li>
+                <li><a href="#">Politica privacidad</a></li>
+            </ul>
+
+            <ul class="ul-no-estlo ul-disable-margin-and-padding mitad-ancho">
+                <li><a href="#">Cookies</a></li>
+                <li><a href="#">Avisos Legales</a></li>
+                <li><a href="#">Datos de interés</a></li>
+            </ul>
+        </div>
+        <div class="mitad-ancho centrar flex-direction-row">
+            <div>
+                <a href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZXMifQ%3D%3D%22%7D"><img class="redes-sociales-thumbnail" src="../img/twitter.png" alt="Twitter"></a>
+                <a href="https://m.facebook.com/login/?locale=es_ES"><img class="redes-sociales-thumbnail" src="../img/Facebook_logo.png" alt="Facebook"></a>
+                <a href="https://z-p15.www.instagram.com/accounts/login/?next=/p/CK8SOUgBxgo/&hl=es"><img class="redes-sociales-thumbnail" src="../img/instagram.png" alt="Instagram"></a>
+                <br>
+                <img src="../img/visa.png" alt="Visa" width="4%%">
+                <img src="../img/paypal.png" alt="Paypal" width="5%">
+                <img src="../img/mastercard.png" alt="Paypal" width="4%">
+                <img src="../img/Maestro.png" alt="Paypal" width="4%">
+                <img src="../img/apple.png" alt="Paypal" width="5%">
+                <img src="../img/googlepay.png" alt="Paypal" width="3%">
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

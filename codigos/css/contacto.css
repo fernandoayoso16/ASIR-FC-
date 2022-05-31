@@ -1,0 +1,133 @@
+h2 {
+    text-align: center;
+}
+
+hr{
+    width: 1600px;
+    border:solid black 0.5px;
+  
+}
+
+#texto1{
+    text-align: center;
+}
+
+
+#taquillas{
+    width: fit-content;
+    float: left;
+    margin-left: 280px;
+
+}
+
+
+#oficinas{
+    position: relative;
+    left: 1130px;
+    bottom: 380px;
+    width: fit-content;
+    float: right;
+    margin-right: 380px;
+
+}
+
+
+
+
+#Boton1{
+   
+    text-align: center;
+
+}
+
+#Boton2{
+    text-align: center;
+
+}
+
+
+
+
+#button1 {
+    background-color: white; /* Green */
+    border: none;
+    color: black;
+
+    padding: 10px 60px;
+
+    text-align: center;
+
+
+    display: inline-block;
+    font-size: 20px;
+    
+    cursor: pointer;
+}
+
+#button2 {
+    background-color: white; /* Green */
+    border: none;
+    color: black;
+
+    padding: 10px 60px;
+
+    text-align: center;
+
+
+  
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+.estilotextarea {
+    width:900px;height:400px;border: 1px solid black;
+    margin-left: 80px;
+}
+
+
+.check {
+    
+    margin-left: 80px;
+
+}
+
+
+
+input.nombre, input.correo {
+
+    background: white;
+    border: 1px solid #393939;
+    border-radius: 5px 5px 5px 5px;
+    color: #393939;
+    font-size: 12px;
+    padding: 5px;
+    width: 360px;
+    height: 25px;
+    text-align: center;
+    margin-left: 80px;
+
+}
+
+select.departamento{
+    background: white;
+    border: 1px solid #393939;
+    border-radius: 5px 5px 5px 5px;
+    color: #393939;
+    text-align: center;
+    font-size: 12px;
+    padding: 5px;
+    width: 370px;
+    height: 29px;
+    margin-left: 80px;
+}
+
+label.nom, label.dcorreo, label.textarea, label.dep {
+
+    margin-left: 80px;
+
+}
+
+
