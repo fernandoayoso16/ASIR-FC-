@@ -42,4 +42,14 @@ Jaime Duran: Mockups club
 **17/05/2022** En el día de hoy hemos tenido dos reuniones de SCRUM, una al principio de la clase (8:30 aprox) y otra al finalizar la misma (11:00). En la primera hemos puesto en común todos los Mockups que teníamos que haber traido para hoy. Hemos decidido un formato que debe tener nuestra página web. Por otra parte, en la segunda reunión, hemos explicado a dos compañeros (Rodrigo y Manuel) lo que habíamos realizado, ya que tenían examen y no han podido asistir mucho en estas horas. Cabe destacar que hemos tenido un problema con Jaime Durán, ya que no ha realizado las minimas tareas propuestas por todo el grupo. Al finalizar la primera reunión de Scrum, Fernando Contreras, Jaime Moreno y Fernando Garcia se han dedicado a cambiar el formato de todos los Mockups, unirlos en un pdf junto a los BPMN y se lo han enviado al profesor.
 
 **18/05/2022** En el dia de hoy teniamos planeada la reunión que se aplaza al martes 24/05/2022. Hasta dicha fecha estamos parados, ya que no sabemos las modificaciones de los Mockups, y por tanto, no podemos empezar con los códigos.
+**24/05/2022** En el dia de hoy hemos tenido la reunion con Jesus sobre los Mockups,no ha habido gran cambio en ellos solo en el de inicio colocar las redes sociales
+en la parte arriba junto al Login y el escudo.Tras la reunion nos hemos vuelto a reunir solo los miembros del grupo para dividir los Mockups y empezar el codigo.Tambien hemos decido dejar los Mockups mas dificil para el final.
+Cabezera:
+Inicio:
+Historia:
+Club:
+Quiniela:
+Login/Registro:
+Conctacto:
+
 
