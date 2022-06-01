@@ -26,13 +26,17 @@ img{
     height: 90%;
 }
 
-#login{
+.login{
     width: 70%;
     border: solid black 2px;
     margin-left: 15%;
     margin-right: 15%;
     background-color: white;
     padding-bottom: 50px;
+}
+
+.login p{
+    margin-left: 5%;
 }
 
 #registro{
@@ -96,4 +100,9 @@ img{
 
 #continuar{
     margin-left: 8%;
+}
+
+#recpass{
+    margin-top: 10%;
+    margin-bottom: 15%;
 }
