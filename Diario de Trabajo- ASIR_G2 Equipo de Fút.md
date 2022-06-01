@@ -53,6 +53,7 @@ Quiniela:Jaime Moreno
 Login/Registro:Rodrigo Díaz
 Conctacto:Manuel Madrid
 Carrito de Compra:Jaime Duran
+
 **25/05/2022**Hoy simplenebte hemos continuado con el codigo y se ha establecido fecha de entrega de los codigos hasta el martes siguiente.
 
 **31/05/2022**Hoy hemos unido los codigos y retocado , tambien hemos puesto en comun nuestros fallos o fallos encontrados en otros codigos en los codigos y como lo solucionamos, por ultimo dividimos los tres ultimos Mockups y comenzamos con el documento de desarrollo.Los Mockups asugnados fueron
