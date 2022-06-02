@@ -43,3 +43,29 @@ Jaime Duran: Mockups club
 
 **18/05/2022** En el dia de hoy teniamos planeada la reunión que se aplaza al martes 24/05/2022. Hasta dicha fecha estamos parados, ya que no sabemos las modificaciones de los Mockups, y por tanto, no podemos empezar con los códigos.
 
+**24/05/2022** En el dia de hoy hemos tenido la reunion con Jesus sobre los Mockups,no ha habido gran cambio en ellos solo en el de inicio colocar las redes sociales
+en la parte arriba junto al Login y el escudo.Tras la reunion nos hemos vuelto a reunir solo los miembros del grupo para dividir los Mockups y empezar el codigo.Tambien hemos decido dejar los Mockups mas dificil para el final.
+Cabezera:Fernando Garcia
+Inicio:Fernando Contreras
+Historia:Fernando Garcia
+Club:Fernando Contreras
+Quiniela:Jaime Moreno
+Login/Registro:Rodrigo Díaz
+Conctacto:Manuel Madrid
+Carrito de Compra:Jaime Duran
+
+**25/05/2022**Hoy simplenebte hemos continuado con el codigo y se ha establecido fecha de entrega de los codigos hasta el martes siguiente.
+
+**31/05/2022**Hoy hemos unido los codigos y retocado , tambien hemos puesto en comun nuestros fallos o fallos encontrados en otros codigos en los codigos y como lo solucionamos, por ultimo dividimos los tres ultimos Mockups y comenzamos con el documento de desarrollo.Los Mockups asugnados fueron
+Tienda:Fernando Contreras
+Producto Tienda:Rodrigo Díaz
+Partidos:Jaime Moreno
+Textos(RSS,ERP...):Manuel Madrid
+Documento:Fernando Garcia
+Carrito de Compra:Jaime Duran
+
+**1/06/2022**Hoy hemos acabado los codigos y nos hemos puesto a terminar el Documento con nuestras opiniones y la informacion restante como fuentes,colores,programas....etc.Tambien hemos divido la exposicion y dejado claro algunos conceptos.
+
+
+**3/06/2022** Entrega del proyecto
+
