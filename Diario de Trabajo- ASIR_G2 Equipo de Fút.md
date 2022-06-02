@@ -67,5 +67,5 @@ Carrito de Compra:Jaime Duran
 **1/06/2022**Hoy hemos acabado los codigos y nos hemos puesto a terminar el Documento con nuestras opiniones y la informacion restante como fuentes,colores,programas....etc.Tambien hemos divido la exposicion y dejado claro algunos conceptos.
 
 
-
+**3/06/2022** Entrega del proyecto
 
